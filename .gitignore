@@ -1,0 +1,43 @@
+
+# Gradle
+.gradle
+gradlew.bat
+build
+/build
+/local.properties
+local.properties
+reports
+/captures
+
+# Maven
+target
+pom.xml.*
+release.properties
+gen-external-apklibs
+
+# Eclipse
+.classpath
+.project
+.settings
+eclipsebin
+
+# IntelliJ IDEA
+.idea
+/.idea
+*.iml
+*.ipl
+*.iws
+classes/
+idea-classes/
+coverage-error.log
+/.idea/workspace.xml
+/.idea/libraries
+
+# Android
+gen
+bin
+project.properties
+out
+
+# Finder
+.DS_Store
